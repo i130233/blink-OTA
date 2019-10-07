@@ -1,2 +1,2 @@
 # blink-OTA
-My first repository on Github
+Using this you can update ot upload your code(Blink as test code) on EDP32 OTA
