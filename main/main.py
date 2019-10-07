@@ -5,8 +5,8 @@
  led = Pin(2, Pin.OUT)
   
  def download_and_install_update_if_available():
-     o = OTAUpdater('url-to-your-github-project')
-     o.download_and_install_update_if_available('wifi-ssid', 'wifi-password')
+     o = OTAUpdater('https://github.com/i130233/blink-OTA.git')
+     o.download_and_install_update_if_available('Shani', 'tinku123')
 
 
  def start():
